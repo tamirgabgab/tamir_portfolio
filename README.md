@@ -6,3 +6,5 @@ My good projects :
 
 
 # [Regression with numpy](https://github.com/tamirgabgab/Regression-with-numpy)
+
+# [Regression with torch](https://github.com/tamirgabgab/Regression-using-torch)
